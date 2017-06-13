@@ -21,6 +21,21 @@ $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/m
 ### theme
 [spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme)
 
+## Macvim
+vim 8.0 설치하고, macvim으로 대체하기 [참고링크](https://nolboo.kim/blog/2016/09/16/vim-8-upgrade/)
+```bash
+$ brew install macvim --override-system-vim
+```
+macvim 터미널에서 열기
+```bash
+$ macvim -v
+```
+alias 설정하기
+```bash
+$ alias vi="macvim -v"
+$ alias vim="macvim -v"
+```
+
 ## ATOM
 
 ### download
