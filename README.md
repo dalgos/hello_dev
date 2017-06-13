@@ -72,5 +72,16 @@ $ sudo chown -R $USER:admin /usr/local/n
 ## Browsers
 
 ### Chrome
-[download page](https://code.visualstudio.com/download)
+[download page](https://www.google.co.kr/chrome/browser/desktop/index.html)
 
+### Chrome Canary
+[download page](https://www.google.co.kr/chrome/browser/canary.html)
+
+### Firefox
+[download page](https://www.mozilla.org/ko/firefox/new/)
+
+### Opera
+[download page](http://www.opera.com/ko)
+
+### Vivaldi
+[download page](https://vivaldi.com)
