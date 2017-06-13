@@ -3,6 +3,7 @@
 ## Installation
 
 * iTerm2@latest [here](https://www.iterm2.com/downloads.html)
+* iTerm Color Themes [here](https://github.com/bahlo/iterm-colors)
 * Hack font [here](http://sourcefoundry.org/hack/)
 * Homebrew
 ```bash
@@ -13,6 +14,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 $ brew install vim --with-override-system-vim
 ```
 ## oh-my-zsh
+[github](https://github.com/robbyrussell/oh-my-zsh)
 ```bash
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
