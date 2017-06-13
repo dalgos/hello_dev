@@ -42,6 +42,9 @@ $ alias vim="macvim -v"
 [download page](https://atom.io)
 
 #### pkgs
+* git-plus : git 명령어를 커맨드 팔레트에서 지원
+* linter-eslint : eslint 리포팅 플러그인 (linter, linter-ui-default, intensions, busy-signal 필수 - 자동설치)
+* activate-power-mode : 팡!팡!
 
 ### VSCode
 [download page](https://code.visualstudio.com/download)
