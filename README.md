@@ -36,26 +36,27 @@ $ alias vi="macvim -v"
 $ alias vim="macvim -v"
 ```
 
-## ATOM
+## IDE
 
-### download
-[here](https://atom.io)
+### ATOM
+[download page](https://atom.io)
 
-### pkgs@apm
+#### pkgs
 
-* eslint@latest
+### VSCode
+[download page](https://code.visualstudio.com/download)
 
-* Git@brew
+## Git
 ```bash
 $ brew install git
 ```
-* NodeJS (with NPM)
+## NodeJS (with NPM)
 ```bash
 $ brew update
 $ brew install nodejs
 ```
 
-## n@npm
+### n@npm
 ```bash
 $ npm i n -g
 $ n latest
@@ -64,3 +65,9 @@ $ n latest
 ```bash
 $ sudo chown -R $USER:admin /usr/local/n
 ```
+
+## Browsers
+
+### Chrome
+[download page](https://code.visualstudio.com/download)
+
