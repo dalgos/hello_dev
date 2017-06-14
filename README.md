@@ -49,6 +49,12 @@ $ alias vim="macvim -v"
 ### VSCode
 [download page](https://code.visualstudio.com/download)
 
+#### pkgs
+* HTMLSnippets
+* vscode-icons
+* One Dark Pro
+* Javascript(es6) code snippets
+
 ## Git
 ```bash
 $ brew install git
