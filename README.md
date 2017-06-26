@@ -44,7 +44,12 @@ $ alias vim="macvim -v"
 #### pkgs
 * git-plus : git 명령어를 커맨드 팔레트에서 지원
 * linter-eslint : eslint 리포팅 플러그인 (linter, linter-ui-default, intensions, busy-signal 필수 - 자동설치)
-* activate-power-mode : 팡!팡!
+* activate-power-mode : 팡!팡!(느려짐 주의)
+* atom-ternjs : javascript code intelligence
+* file-icons : Assign file extension icons
+* file-types : Specify additional file types for lang
+* language-babel : Add syntax for Babel
+* language-javascript-jsx : Add syntax for jsx
 
 ### VSCode
 [download page](https://code.visualstudio.com/download)
