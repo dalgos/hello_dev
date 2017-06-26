@@ -90,6 +90,12 @@ $ sudo chown -R $USER:admin /usr/local/n
 ### Chrome
 [download page](https://www.google.co.kr/chrome/browser/desktop/index.html)
 
+#### Extensions (usable with Canary too)
+* [React Developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux devTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) : [Github](https://github.com/zalmoxisus/redux-devtools-extension)
+* [Vue.js devTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+
 ### Chrome Canary
 [download page](https://www.google.co.kr/chrome/browser/canary.html)
 
