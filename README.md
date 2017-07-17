@@ -10,7 +10,7 @@
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-* nodejs
+## nodejs
 ```bash
 // 6.x
 $ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
@@ -20,7 +20,12 @@ curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-* yarn
+## vim@8.x (required homebrew.)
+```bash
+$ brew install vim --with-override-system-vim
+```
+
+## yarn
 ```bash
 // macos
 $ brew install yarn
@@ -31,10 +36,6 @@ echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/source
 sudo apt-get update && sudo apt-get install yarn
 ```
 
-* vim@8.x (required homebrew.)
-```bash
-$ brew install vim --with-override-system-vim
-```
 ## oh-my-zsh
 [github](https://github.com/robbyrussell/oh-my-zsh)
 ```bash
