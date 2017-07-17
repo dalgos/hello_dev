@@ -9,6 +9,28 @@
 ```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
+
+* nodejs
+```bash
+// 6.x
+$ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
+sudo apt-get install -y nodejs
+// 8.x
+curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+sudo apt-get install -y nodejs
+```
+
+* yarn
+```bash
+// macos
+$ brew install yarn
+// debian, ubuntu
+curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+// or
+sudo apt-get update && sudo apt-get install yarn
+```
+
 * vim@8.x (required homebrew.)
 ```bash
 $ brew install vim --with-override-system-vim
