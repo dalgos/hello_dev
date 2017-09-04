@@ -64,6 +64,14 @@ $ alias vi="macvim -v"
 $ alias vim="macvim -v"
 ```
 
+vim plugin manager
+vim-plug[here](https://github.com/junegunn/vim-plug)
+
+```bash
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
+
 ## IDE
 
 ### ATOM
