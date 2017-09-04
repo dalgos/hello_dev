@@ -4,6 +4,7 @@
 
 * iTerm2@latest [here](https://www.iterm2.com/downloads.html)
 * iTerm Color Themes [here](https://github.com/bahlo/iterm-colors)
+* iTerm2 brogrammer theme [here](https://github.com/dalgos/hello_dev/blob/master/brogrammer.itermcolors)
 * Hack font [here](http://sourcefoundry.org/hack/)
 * Homebrew
 ```bash
@@ -42,7 +43,11 @@ sudo apt-get update && sudo apt-get install yarn
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 ### theme
-[spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme)
+spaceship-zsh-theme (추천)
+
+```bash
+npm install -g spaceship-zsh-theme
+```
 
 ## Macvim
 vim 8.0 설치하고, macvim으로 대체하기 [참고링크](https://nolboo.kim/blog/2016/09/16/vim-8-upgrade/)
