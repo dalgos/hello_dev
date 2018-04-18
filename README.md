@@ -125,7 +125,7 @@ $ n latest
 ```
 권한 오류 발생 시
 ```bash
-$ sudo chown -R $USER:admin /usr/local/n
+$ sudo chown -R $(whoami) /usr/local/n
 ```
 
 ## Browsers
