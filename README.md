@@ -91,10 +91,17 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 [download page](https://code.visualstudio.com/download)
 
 #### pkgs
-* HTMLSnippets
-* vscode-icons
-* One Dark Pro
-* Javascript(es6) code snippets
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+* [Bracket Pair Colorize](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+* [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
+* [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+* [React-Native/React/Redux snippets for es6/es7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)
+* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+* [Javascript(es6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Git
 ```bash
