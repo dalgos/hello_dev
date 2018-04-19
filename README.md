@@ -38,12 +38,12 @@ sudo apt-get update && sudo apt-get install yarn
 ```
 
 ## oh-my-zsh
-[github](https://github.com/robbyrussell/oh-my-zsh)
+⛓[github](https://github.com/robbyrussell/oh-my-zsh)
 ```bash
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 ### theme
-spaceship-zsh-theme (추천)
+⛓[spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-prompt)
 
 ```bash
 npm install -g spaceship-prompt
@@ -62,7 +62,7 @@ ZSH_THEME="spaceship"
 ```
 
 ## Macvim
-vim 8.0 설치하고, macvim으로 대체하기 [참고링크](https://nolboo.kim/blog/2016/09/16/vim-8-upgrade/)
+vim 8.0 설치하고, macvim으로 대체하기 ⛓[참고링크](https://nolboo.kim/blog/2016/09/16/vim-8-upgrade/)
 ```bash
 $ brew install macvim --override-system-vim
 ```
