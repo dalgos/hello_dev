@@ -46,7 +46,19 @@ $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/m
 spaceship-zsh-theme (추천)
 
 ```bash
-npm install -g spaceship-zsh-theme
+npm install -g spaceship-prompt
+```
+
+zsh의 custom theme 폴더로 spaceship.zsh-theme 파일을 symlink 합니다
+
+```sh
+$ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
+```
+
+`.zshrc` 파일을 수정합니다.
+
+```sh
+ZSH_THEME="spaceship"
 ```
 
 ## Macvim
