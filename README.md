@@ -114,6 +114,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 * [Javascript(es6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 * [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 * [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+* [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 ## Git
 ```bash
