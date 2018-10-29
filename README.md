@@ -43,23 +43,12 @@ sudo apt-get update && sudo apt-get install yarn
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 ```
 ### theme
-⛓[spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-prompt)
+⛓[spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
 
 ```bash
 npm install -g spaceship-prompt
 ```
 
-zsh의 custom theme 폴더로 spaceship.zsh-theme 파일을 symlink 합니다
-
-```sh
-$ ln -s "$ZSH_CUSTOM/themes/spaceship-prompt/spaceship.zsh-theme" "$ZSH_CUSTOM/themes/spaceship.zsh-theme"
-```
-
-`.zshrc` 파일을 수정합니다.
-
-```sh
-ZSH_THEME="spaceship"
-```
 
 ## Macvim
 vim 8.0 설치하고, macvim으로 대체하기 ⛓[참고링크](https://nolboo.kim/blog/2016/09/16/vim-8-upgrade/)
