@@ -15,7 +15,7 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ```bash
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-### Recommened brew pkgs
+### Recommended brew pkgs
 
 git, [git-flow](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git-flow)
 
