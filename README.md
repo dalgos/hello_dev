@@ -11,6 +11,14 @@
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
+## Homebrew
+```bash
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+### Recommened brew pkgs
+
+git, [git-flow](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git-flow)
+
 ## nodejs
 ```bash
 // 6.x
